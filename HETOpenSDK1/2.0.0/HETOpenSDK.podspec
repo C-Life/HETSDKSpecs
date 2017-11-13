@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-    s.name = "HETOpenSDK"
+    s.name = "HETOpenSDK1"
     s.version = "2.0.0"
     s.summary = "H&T开放平台SDK"
     s.ios.deployment_target = '8.0'
