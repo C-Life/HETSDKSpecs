@@ -17,6 +17,6 @@ Pod::Spec.new do |s|
     s.source       = { :git => "https://github.com/C-Life/HETOpenSDK.git", :commit => "ea12d5b6a028d23daa338376df4f86a1f419828b"}
     s.requires_arc = true
     s.vendored_frameworks='SDK/HETOpenSDK.framework'
-    s.resource = "SDK/HETOpenSDK.bundle"
+    s.resource = 'SDK/HETOpenSDK.bundle'
 
 end
