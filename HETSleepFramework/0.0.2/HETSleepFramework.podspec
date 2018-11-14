@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
     s.homepage     = "https://github.com/C-Life/HETOpenSDK-for-iOS"
     s.license      = 'Apache License, Version 2.0'
     s.author       = { "Justin Yang" => "ityangjing@gmail.com" }
-    s.source       = { :git => "https://github.com/C-Life/HETKunYuanDemo.git", :commit => "b7746a2cae3da338b80d710e88086e9c14a2da5f"}
+    s.source       = { :git => "https://github.com/C-Life/HETKunYuanDemo.git", :commit => "4886897530ed747e4516cc1abfa6b3516665e393"}
     s.requires_arc = true
     s.default_subspecs = 'HETSleepFramework'
 
