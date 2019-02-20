@@ -8,13 +8,13 @@
 
 Pod::Spec.new do |s|
     s.name = "HETSleepFramework"
-    s.version = "0.0.3"
+    s.version = "0.0.5"
     s.summary = "H&T开放平台SDK"
     s.ios.deployment_target = '8.0'
     s.homepage     = "https://github.com/C-Life/HETOpenSDK-for-iOS"
     s.license      = 'Apache License, Version 2.0'
     s.author       = { "Justin Yang" => "ityangjing@gmail.com" }
-    s.source       = { :git => "https://github.com/C-Life/HETKunYuanDemo.git", :commit => "21eab1b30437039abecf895da17b8521afc166cd"}
+    s.source       = { :git => "https://github.com/C-Life/HETKunYuanDemo.git", :commit => "5e86d91c57df70361a176989f8c76def6f0ed2c4"}
     s.requires_arc = true
     s.default_subspecs = 'HETSleepFramework'
 
