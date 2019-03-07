@@ -31,12 +31,6 @@ Pod::Spec.new do |s|
    sp.vendored_frameworks = 'Optional/HETMattressDeviceSDK.framework'
    end
 
-   # HETSkinAnalysisSDK 拍照测肤SDK
-   s.subspec 'HETSkinAnalysisSDK' do |sp|
-   sp.vendored_frameworks = 'Optional/HETSkinAnalysisSDK.framework'
-   sp.dependency 'QCloudCOSXML','5.5.6'
-   end
-
 end
 
 
